@@ -1,2 +1,1 @@
-# hwid-list
-hwids
+self explanatory
